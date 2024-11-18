@@ -1,6 +1,6 @@
 # Hi, I'm Sofiane Mazières
 
-I'm Sofiane, a french double degree Master's final year student in computer engineering and social science (sociology & public policy). My main languages are Python, Rust and R, but I am also familiar with web frameworks, Java and C++.
+I'm Sofiane, a 1st year PhD Student in sociology at Sorbonne University (Paris, France). My main languages are Python, Rust and R, but I am also familiar with web frameworks, Java and C++.
 
  
 <div id="social-media">
